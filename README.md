@@ -1,3 +1,4 @@
+This is a trivial application that shows the power of react.Each time you click the button, the number increases by one
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
