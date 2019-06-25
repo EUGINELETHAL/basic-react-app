@@ -1,7 +1,7 @@
 {
   "name": "prohunt",
   "version": "0.1.0",
-  "private  homepage": "https://github.com/EUGINELETHAL/basic-react-app/",
+  "private  homepage": "https://euginelethal.github.io/basic-react-app/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
